@@ -1,1 +1,2 @@
-# TestGeo
+# Geologist
+Geologist Project
